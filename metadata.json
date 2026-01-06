@@ -1,0 +1,8 @@
+
+{
+  "name": "EduPath Global - Education Consultancy System",
+  "description": "A comprehensive education consultancy platform featuring AI-powered counseling, university search, and application tracking for international students.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
